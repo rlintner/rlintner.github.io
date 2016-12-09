@@ -1,0 +1,34 @@
+{
+  "analysisTools": [
+    {
+      "name": "CalculateDensity",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Calculate Density"
+    },
+    {
+      "name": "FindHotSpots",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Find Hot Spots"
+    },
+    {
+      "name": "SummarizeNearby",
+      "showHelp": true,
+      "showCredits": true,
+      "showChooseExtent": true,
+      "showReadyToUseLayers": true,
+      "allowToExport": false,
+      "returnFeatureCollection": false,
+      "toolLabel": "Summarize Nearby"
+    }
+  ]
+}
